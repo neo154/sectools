@@ -1,0 +1,14 @@
+[submodule "bloodyAD"]
+	path = bloodyAD
+	url = https://github.com/CravateRouge/bloodyAD.git
+	ignore = all
+[submodule "Certipy"]
+	path = Certipy
+	url = https://github.com/ly4k/Certipy.git
+	ignore = all
+[submodule "targetedKerberoast"]
+	path = targetedKerberoast
+	url = https://github.com/ShutdownRepo/targetedKerberoast.git
+	ignore = all
+[submodule "actionbarsherlock"]
+	ignore = dirty
